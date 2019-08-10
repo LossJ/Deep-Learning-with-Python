@@ -17,5 +17,6 @@ Keras之父、谷歌人工智能研究员François Chollet执笔，深度学习�
 > - [1 **什么是深度学习**](1.WhatIsDeepLearning.ipynb)
 > - [2 **神经网络的数学基础**](2.MathematicalBasisOfNeuralNetwork.ipynb)
 > - [3 **神经网络入门**](3.GettingStartedWithNeuralNetworks.ipynb)
+> - [4 **机器学习基础**](4.MachineLearningFoundation.ipynb)
 >
 > <img src="./imgs/cover.png"></img>
